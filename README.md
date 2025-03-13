@@ -12,7 +12,7 @@ Showcase your skills in provisioning Azure infrastructure using Terraform, empha
    - Please share the terraform plan output. You can use the [Azure Free-tier](https://azure.microsoft.com/en-in/pricing/free-services/).
 4. Make sure your code is clean. Propose tools and processes to help you in this aspect.
 
-Expect to spend about 2-4 hours on this. Deliverables should be public GitHub repositories (or shared with the evaluator).
+Expect to spend about 2-4 hours on this.
 
 ---
 
