@@ -7,7 +7,7 @@ Showcase your skills in provisioning Azure infrastructure using Terraform, empha
 ## Deliverables
 
 1. Build a reusable Terraform module to deploy an Azure Virtual Network (VNET).
-2. Use this module to create multiple environments in Azure (eg, Develoment and Production), adding a few additional resources of your choice (Blob).
+2. Use this module to create multiple environments in Azure (eg, Develoment and Production), adding a few additional resources of your choice (eg, Blob).
 3. Submit your work via one or many GitHub repositories, make them plublic and share the URL with us.
    - Please share the terraform plan output. You can use the [Azure Free-tier](https://azure.microsoft.com/en-in/pricing/free-services/).
 4. Make sure your code is clean. Propose tools and processes to help you in this aspect.
