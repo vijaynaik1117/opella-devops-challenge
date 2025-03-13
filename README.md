@@ -9,9 +9,10 @@ Showcase your skills in provisioning Azure infrastructure using Terraform, empha
 1. Build a reusable Terraform module to deploy an Azure Virtual Network (VNET).
 2. Use this module to create multiple environments in Azure (eg, Develoment and Production), adding a few additional resources of your choice (Blob).
 3. Submit your work via one or many GitHub repositories, make them plublic and share the URL with us.
-4. Make sure your code is clean. Propose tools to help you in this aspect.
+   - Please share the terraform plan output. You can use the [Azure Free-tier](https://azure.microsoft.com/en-in/pricing/free-services/).
+4. Make sure your code is clean. Propose tools and processes to help you in this aspect.
 
-Expect to spend about 2-3 hours on this. Deliverables should be public GitHub repositories (or shared with the evaluator).
+Expect to spend about 2-4 hours on this. Deliverables should be public GitHub repositories (or shared with the evaluator).
 
 ---
 
@@ -25,9 +26,9 @@ Expect to spend about 2-3 hours on this. Deliverables should be public GitHub re
 - **Hints**:
   - Think about what configurations might need to change depending on where or how this is used.
   - Consider optional features that could enhance network security.
-  - How might you label resources for better tracking?
-  - What information would someone need in order to use this module? Bonus points if you automate documentation indicating how!
   - What outputs you would add and why?
+  - What information would someone need in order to use this module? Bonus points if you automate documentation! (indicate how)
+  - Super extra points if your module is tested
 
 ### 2. Infrastructure Setup
 
@@ -40,6 +41,7 @@ Expect to spend about 2-3 hours on this. Deliverables should be public GitHub re
   - Include a virtual machine and one other resources (your choice—think about what’s useful in a dev setup).
   - Name and label resources to make the environment and region clear.
   - Avoid repeating values—how can you make this flexible?
+  - How might you label resources for better tracking? How would you enforce this?
   - What outputs might be useful and why?
   - Bonus points if you build a GitHub pipeline and explain the release lifecycle.
 
