@@ -1,5 +1,7 @@
 # Opella DevOps Technical Challenge: Provision Azure Infrastructure with Terraform
 
+⚠️ **It's perfectly fine to use AI to assist with this coding challenge. However, ensure you can explain and justify your decisions during the live interview. Let's make the most of our time together.** ⚠️
+
 ## Objective
 
 Showcase your skills in provisioning Azure infrastructure using Terraform, emphasizing reusable, secure, and maintainable Infrastructure as Code (IaC). This challenge will assess your ability to structure code effectively, manage resources across environments, and apply industry-standard practices using Azure, Terraform, and GitHub.
